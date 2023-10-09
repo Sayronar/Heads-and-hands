@@ -22,7 +22,7 @@ public class PlayerTests {
 
     @Test
     public void testPlayerAttack() {
-        int attack = 10;
+        int attack = 20;
         int defense = 5;
         int health = 100;
         int maxHealth = 150;
